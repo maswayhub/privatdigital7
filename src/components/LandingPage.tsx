@@ -170,7 +170,7 @@ export default function LandingPage({
             </div>
 
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-white tracking-tight leading-[1.15] max-w-4xl mx-auto">
-              Buka Keran Penghasilan dari Rumah: <span className="text-blue-300">Panduan Khusus 7 Hari Jago Jualan Produk Digital Dibimbing Melalui WA</span>
+              Buka Keran Penghasilan dari Rumah: <span className="text-blue-300">Panduan Khusus 7 Hari Cuan dari Rumah</span>
             </h1>
 
             <p className="text-base sm:text-lg md:text-xl text-blue-100/80 max-w-2xl mx-auto leading-relaxed">
